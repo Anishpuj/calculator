@@ -1,7 +1,11 @@
 
 # Dark and Light Themed Calculator
 
-- A light and dark themed calculator built using the Frontend web stack is a user-friendly web application designed to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. It features a responsive and visually appealing interface that allows users to input numerical values and execute calculations seamlessly. 
+- A light and dark themed calculator built using the Frontend web stack is a user-friendly web application designed to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. It features a responsive and visually appealing interface that allows users to input numerical values and execute calculations seamlessly. <br>
+![App Screenshot](https://github.com/Anishpuj/AppleVisionproClone/assets/98417394/d0a01c17-e6b6-48c5-84d7-ca15e820ed18)
+
+
+
 
 
 ## Demo
@@ -39,12 +43,6 @@ Lessons Learned from this is to build a flexible calculator using the FRONTEND s
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/Anishpuj/AppleVisionproClone/assets/98417394/d0a01c17-e6b6-48c5-84d7-ca15e820ed18)
-
 
 ## Support
 
